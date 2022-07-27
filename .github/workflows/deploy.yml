@@ -8,7 +8,7 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: ACA-Sample
+  RESOURCE_GROUP_NAME: ACA-Orlean
 
   # specify your preferred region
   REGION: westeurope
